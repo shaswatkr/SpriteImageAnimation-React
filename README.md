@@ -1,6 +1,10 @@
 # SpriteImageAnimation-React
 A React Project using Slice Image(an image with multiple sub-images of the same item but in different position) to mimic a GIF.
 
+Using Slice Image(A image with multiple images of the same item but in different position to mimic movement in an animation using all the different pic at certain time-gap.
+
+It uses the image "https://www.edureka.co/blog/wp-content/uploads/2019/08/CSS-Sprites.png" as the respective slice image.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
